@@ -1,5 +1,5 @@
 # Where to install casks
-cask_args appdir: "~/Applications", require_sha: true
+cask_args appdir: "~/Applications"
 tap "homebrew/cask"
 tap "homebrew/bundle"
 
