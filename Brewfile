@@ -28,6 +28,7 @@ cask 'github'
 
 # Brew
 brew 'git'
+brew 'gh'
 brew 'python'
 brew 'nvm'
 brew 'mysql'
