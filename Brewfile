@@ -25,6 +25,9 @@ cask 'microsoft-office'
 cask 'google-drive'
 cask 'zoom'
 cask 'github'
+cask 'raycast'
+cask 'orbstack'
+cask 'iterm2'
 
 # Brew
 brew 'git'
